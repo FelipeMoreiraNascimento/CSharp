@@ -1,0 +1,8 @@
+C:\Users\felip\source\repos\POO01\POO01\bin\Debug\POO01.exe.config
+C:\Users\felip\source\repos\POO01\POO01\bin\Debug\POO01.exe
+C:\Users\felip\source\repos\POO01\POO01\bin\Debug\POO01.pdb
+C:\Users\felip\source\repos\POO01\POO01\obj\Debug\POO01.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\POO01\POO01\obj\Debug\POO01.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\source\repos\POO01\POO01\obj\Debug\POO01.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\POO01\POO01\obj\Debug\POO01.exe
+C:\Users\felip\source\repos\POO01\POO01\obj\Debug\POO01.pdb
