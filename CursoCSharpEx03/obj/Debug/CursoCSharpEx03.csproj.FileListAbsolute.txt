@@ -1,0 +1,8 @@
+C:\Users\felip\source\repos\CursoCSharpEx03\CursoCSharpEx03\bin\Debug\CursoCSharpEx03.exe.config
+C:\Users\felip\source\repos\CursoCSharpEx03\CursoCSharpEx03\bin\Debug\CursoCSharpEx03.exe
+C:\Users\felip\source\repos\CursoCSharpEx03\CursoCSharpEx03\bin\Debug\CursoCSharpEx03.pdb
+C:\Users\felip\source\repos\CursoCSharpEx03\CursoCSharpEx03\obj\Debug\CursoCSharpEx03.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\CursoCSharpEx03\CursoCSharpEx03\obj\Debug\CursoCSharpEx03.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\source\repos\CursoCSharpEx03\CursoCSharpEx03\obj\Debug\CursoCSharpEx03.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\CursoCSharpEx03\CursoCSharpEx03\obj\Debug\CursoCSharpEx03.exe
+C:\Users\felip\source\repos\CursoCSharpEx03\CursoCSharpEx03\obj\Debug\CursoCSharpEx03.pdb
