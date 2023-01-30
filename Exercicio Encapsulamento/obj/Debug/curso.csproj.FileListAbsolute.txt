@@ -1,0 +1,8 @@
+C:\Users\felip\source\repos\curso\curso\bin\Debug\curso.exe.config
+C:\Users\felip\source\repos\curso\curso\bin\Debug\curso.exe
+C:\Users\felip\source\repos\curso\curso\bin\Debug\curso.pdb
+C:\Users\felip\source\repos\curso\curso\obj\Debug\curso.csproj.AssemblyReference.cache
+C:\Users\felip\source\repos\curso\curso\obj\Debug\curso.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\source\repos\curso\curso\obj\Debug\curso.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\curso\curso\obj\Debug\curso.exe
+C:\Users\felip\source\repos\curso\curso\obj\Debug\curso.pdb
