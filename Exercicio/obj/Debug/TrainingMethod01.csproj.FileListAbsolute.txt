@@ -1,0 +1,8 @@
+C:\Users\felip\source\repos\TrainingMethod01\TrainingMethod01\bin\Debug\TrainingMethod01.exe.config
+C:\Users\felip\source\repos\TrainingMethod01\TrainingMethod01\bin\Debug\TrainingMethod01.exe
+C:\Users\felip\source\repos\TrainingMethod01\TrainingMethod01\bin\Debug\TrainingMethod01.pdb
+C:\Users\felip\source\repos\TrainingMethod01\TrainingMethod01\obj\Debug\TrainingMethod01.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\source\repos\TrainingMethod01\TrainingMethod01\obj\Debug\TrainingMethod01.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\TrainingMethod01\TrainingMethod01\obj\Debug\TrainingMethod01.exe
+C:\Users\felip\source\repos\TrainingMethod01\TrainingMethod01\obj\Debug\TrainingMethod01.pdb
+C:\Users\felip\source\repos\TrainingMethod01\TrainingMethod01\obj\Debug\TrainingMethod01.csproj.AssemblyReference.cache
